@@ -13,8 +13,7 @@ The app building follows the workflow designed on the picture below.
 
 
 ## Contributing
-
-GUIDJIME ADINSI Ahouahounko
+Nguemdjom Tchangang kevin Darren
 Former Data scientist/Machine Learning Engineer
 
 
